@@ -107,7 +107,5 @@
   </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=elianrivoira&show_icons=true&theme=tokyonight&text_color=000000&locale=en&layout=compact" alt="elianrivoira" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=elianrivoira&show_icons=true&theme=dark&locale=en" alt="elianrivoira" /></p>
 
