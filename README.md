@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Elian Rivoira</h1>
 <h3 align="center">A Full Stack Developer from Argentina</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=elianrivoira" alt="elianrivoira" /></a> </p>
-
 - 🌱 I’m currently learning **courses about getting deeper into NodeJS and Microservices**
 
 - 📫 How to reach me **rivoiraelian@gmail.com**
