@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **rivoiraelian@gmail.com**
 
-- 📄 My Resume [In progress](In progress)
+- 📄 <a href="https://elianrivoira.vercel.app/" target="blank">My site</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
