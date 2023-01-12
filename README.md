@@ -107,5 +107,5 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElianRivoira&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=elianrivoira&show_icons=true&theme=dark&locale=en" alt="elianrivoira" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=elianrivoira&show_icons=true&theme=dark&locale=en" alt="elianrivoira" /></p>
 
