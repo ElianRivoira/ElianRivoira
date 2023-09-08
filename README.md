@@ -1,7 +1,7 @@
 # 💫 About Me:
 <h1 align="center">Hi 👋, I'm Elian Rivoira</h1><br>
 <h3 align="center">A Full Stack Developer from Argentina</h3><br><br>
-- 🌱 I’m currently learning **Microservices with NodeJs and React**
+- 🌱 I’m currently learning **Java with SpringBoot**
 
 - 👨‍💻 All of my projects are available at [https://elianrivoira.vercel.app/](https://elianrivoira.vercel.app/)
 
